@@ -1,6 +1,12 @@
 # wlist
 A collection of passwords and wordlists commonly used for dictionary-attacks using a variety of password cracking tools such as aircrack-ng, hydra and hashcat.
 
+https://drive.google.com/file/d/19O7WanShcBNTymso-0jnb0-lLVs6_TYL/view?usp=sharing
+
+```
+FILE SIZE :  4 GB (4,076,276,229 bytes)
+```
+
 ## Useful one-liners for wordlist manipulation
 **Remove duplicates**
 ```
@@ -24,4 +30,4 @@ cat file1.txt file2.txt > combined.txt
 ```
 egrep -v "^[[:space:]]*$" old.txt > new.txt
 ```
-https://drive.google.com/file/d/19O7WanShcBNTymso-0jnb0-lLVs6_TYL/view?usp=sharing
+
